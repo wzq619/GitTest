@@ -5,4 +5,4 @@ ccccccbbbbddd
 web++++2
 zzzzzzzzzzzff
 xxxxx
-local++2
+local++2s
